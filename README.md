@@ -7,6 +7,7 @@ Creator: https://www.cocrea.world/@NyankoBfLmao/
 Original Project: https://www.cocrea.world/@NyankoBfLmao/GetTheFuckOutOfThisProjectAndPlayIncrediboxInsteadOfThisShit
 
 Open-source version utilized: https://wolf-hal.itch.io/incredibox-sprunki 
+
 Compiler used: https://docs.turbowarp.org
 
 What you seriously need to actually consider playing: https://www.incredibox.com/
