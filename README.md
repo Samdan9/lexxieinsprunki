@@ -3,10 +3,14 @@
 Look, I practically did nothing but just replace Wenda with my OC. Other than that, all sounds, sprites, and code is made by NyankoBfLmao. 
 
 Creator: https://www.cocrea.world/@NyankoBfLmao/
+
 Original Project: https://www.cocrea.world/@NyankoBfLmao/GetTheFuckOutOfThisProjectAndPlayIncrediboxInsteadOfThisShit
+
 Open-source version utilized: https://wolf-hal.itch.io/incredibox-sprunki 
 Compiler used: https://docs.turbowarp.org
+
 What you seriously need to actually consider playing: https://www.incredibox.com/
+
 Lexxie design: by me :3 
 
 ## Hey read this shit!
